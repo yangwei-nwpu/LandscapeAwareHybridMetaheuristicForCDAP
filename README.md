@@ -1,41 +1,9 @@
-[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # Landscape-Aware Hybrid Metaheuristic for Cross-Dock Door Assignment
-
-This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data used in the research reported in:
 *   **Title**: Landscape-Aware Hybrid Metaheuristic for Cross-Dock Door Assignment
 *   **Authors**: Wei Yang, Yang Wang, Abraham P. Punnen, and Rafael Martí
-
-The snapshot corresponds to INFORMS JoC repository id **2025.1233**.
-
-Important: this code is being developed on an ongoing basis at:
-*   [https://github.com/YourGitHubUsername/YourRepositoryName](https://github.com/YourGitHubUsername/YourRepositoryName) (placeholder for your ongoing development repository)
-
-Please use that repository for the most recent updates and support for ongoing development.
-
----
-
-## Cite
-
-To cite the contents of this repository, please cite both the paper and this repository snapshot.
-
-*   **Paper DOI**: `https://doi.org/10.1287/ijoc.2025.1233` 
-*   **Repository Snapshot DOI**: `https://doi.org/10.1287/ijoc.2025.1233.cd` 
-Below is the BibTeX entry for citing this repository snapshot:
-
-```bibtex
-@misc{YangWangPunnenMarti2026.XXXX,
-  author =    {Wei Yang and Yang Wang and Abraham P. Punnen and Rafael Mart{\'i}},
-  publisher = {INFORMS Journal on Computing},
-  title =     {{Landscape-Aware Hybrid Metaheuristic for Cross-Dock Door Assignment}},
-  year =      {2026},
-  doi =       {10.1287/ijoc.2025.1233.cd},
-  url =       {https://github.com/INFORMSJoC/2025.1233},
-  note =      {Available for download at https://github.com/INFORMSJoC/2025.1233},
-}
-```
 
 ---
 
