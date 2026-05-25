@@ -1,0 +1,52 @@
+O:5112 and computed:5112  and if feasible=1
+T:0.002000s
+s:1 3 2 1 3 1 0 0 
+t:3 1 0 2 0 1 3 0 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.003000s
+s:2 0 1 2 0 2 3 3 
+t:0 2 3 1 3 2 0 3 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.004000s
+s:2 0 1 2 0 2 3 3 
+t:0 2 3 1 3 2 0 3 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.003000s
+s:2 0 1 2 0 2 3 3 
+t:0 2 3 1 3 2 0 3 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.001000s
+s:1 3 2 1 3 1 0 0 
+t:3 1 0 2 0 1 3 0 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.002000s
+s:1 3 2 1 3 1 0 0 
+t:3 1 0 2 0 1 3 0 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.004000s
+s:1 3 2 1 3 1 0 0 
+t:3 1 0 2 0 1 3 0 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.004000s
+s:2 0 1 2 0 2 3 3 
+t:0 2 3 1 3 2 0 3 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.004000s
+s:2 0 1 2 0 2 3 3 
+t:0 2 3 1 3 2 0 3 
+***********
+O:5112 and computed:5112  and if feasible=1
+T:0.005000s
+s:2 0 1 2 0 2 3 3 
+t:0 2 3 1 3 2 0 3 
+***********
+ArgT:0.032000s argtime:0.003200s
+ArgO:51120 argvalue:5112.000000

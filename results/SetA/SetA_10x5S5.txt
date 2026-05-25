@@ -1,0 +1,52 @@
+O:6616 and computed:6616  and if feasible=1
+T:0.002000s
+s:2 3 1 3 0 1 0 2 4 4 
+t:1 2 3 0 3 2 0 1 4 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.002000s
+s:2 3 1 3 0 1 0 2 4 4 
+t:1 2 3 0 3 2 0 1 4 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.005000s
+s:2 3 1 3 0 1 0 2 4 4 
+t:1 2 3 0 3 2 0 1 4 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.002000s
+s:2 1 3 1 4 3 4 2 0 0 
+t:3 2 1 4 1 2 4 3 0 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.005000s
+s:2 1 3 1 4 3 4 2 0 0 
+t:3 2 1 4 1 2 4 3 0 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.003000s
+s:2 3 1 3 0 1 0 2 4 4 
+t:1 2 3 0 3 2 0 1 4 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.009000s
+s:2 1 3 1 4 3 4 2 0 0 
+t:3 2 1 4 1 2 4 3 0 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.003000s
+s:2 1 3 1 4 3 4 2 0 0 
+t:3 2 1 4 1 2 4 3 0 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.003000s
+s:2 1 3 1 4 3 4 2 0 0 
+t:3 2 1 4 1 2 4 3 0 2 
+***********
+O:6616 and computed:6616  and if feasible=1
+T:0.004000s
+s:2 1 3 1 4 3 4 2 0 0 
+t:3 2 1 4 1 2 4 3 0 2 
+***********
+ArgT:0.038000s argtime:0.003800s
+ArgO:66160 argvalue:6616.000000
